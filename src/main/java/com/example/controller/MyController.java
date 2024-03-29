@@ -6,11 +6,4 @@ public class MyController {
 	//12lk3
 
 	
-	
-	//ejijw
-	
-	//fef
-	
-	//efewf
-	
 }
