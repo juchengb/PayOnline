@@ -1,4 +1,5 @@
 # PayOnline
+```java
 // Order 訂單
 +---------+------------+------------+--------+------------+
 |    id   | supplierId | customerId | amount | createTime |
@@ -28,3 +29,5 @@
 |    id   | bankId | customerId |  amount | createTime |
 | 請款單id | 銀行id |  消費者id  | 請款金額 |  創建時間   |
 +---------+--------+-----------+---------+-------------+
+
+```
